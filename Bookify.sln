@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bookify.Domain", "src\Booki
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bookify.Application", "src\Bookify.Application\Bookify.Application.csproj", "{BE5FDC83-56E9-4CF6-8D9D-0B2C2F11D7F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bukify.Infrastructure", "Bukify.Infrastructure\Bukify.Infrastructure.csproj", "{746EC499-AC72-47D9-9118-6C244276F584}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookify.Infrastructure", "Bukify.Infrastructure\Bookify.Infrastructure.csproj", "{746EC499-AC72-47D9-9118-6C244276F584}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
